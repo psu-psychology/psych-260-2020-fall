@@ -1,0 +1,323 @@
+---
+title: "Schedule"
+---
+
+*[B&W](http://behavioralneuroscience8e.com/) refers to the Breedlove & Watson text. Assignments are given in chapter:pages format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
+
+## Week 1, August 24 - 28 (in-person)
+
+### Tuesday, August 25
+
+- Topics
+    - Introduction to the course
+    - A bit about systems
+
+- Assignments
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 1:2-19
+    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
+- Materials
+
+### Thursday, August 27 (in-person)
+
+- Topics
+    - History of neuroscience
+    - Levels of analysis
+    - Neuroscience methods I
+- Assignments
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 1:1-21; 2:51-57; 3:88-92
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional:
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
+- Materials
+
+---
+
+## Week 2, August 31 - September 4 (in-person)
+
+### Tuesday, September 1
+
+- Topics
+    - Neuroscience methods II.
+- Assignments
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 2:51-57; 3:88-92
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
+- Materials
+
+### Thursday, September 3 (in-person)
+
+- Topics
+    - Neuroanatomy I
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51
+- Materials
+
+---
+
+## Week 3, September 7 - 11 (in-person)
+
+### Tuesday, September 8
+
+- Topics
+    - Neuroanatomy II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51
+- Materials
+
+### Thursday, September 10 (in-person)
+
+- Topics
+    - **Quiz 1**
+    - Neuroanatomy III
+- Materials
+
+---
+
+## Week 4, September 14 - 18 (in-person)
+
+### Tuesday, September 15
+
+- Topics
+    - Cells of the nervous system
+    - How nerve cells compute (Neurophysiology I)
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:25-35
+    - Read [B&W](http://behavioralneuroscience8e.com/): 3:61-66
+- Materials
+
+### Thursday, September 17 (in-person)
+
+- Topics
+    - Neurophysiology II
+- Assignments
+    - Read: [B&W](http://behavioralneuroscience8e.com/): 3:66-87.
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
+ - Materials
+
+---
+
+## Week 5, September 21 - 25 (in-person)
+
+### Tuesday, September 22
+
+- Topics
+    - Neurophysiology III
+    - Exam 1 Review
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69
+- Materials
+
+### Thursday, September 24 
+
+- Topics
+    - **Exam 1**
+
+---
+
+## Week 6, September 28 - October 2 (in-person)
+
+### Tuesday, September 29
+
+- Topics
+    - Neurochemistry I
+- Assignments
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103
+- Materials
+
+### Thursday, October 1 
+
+- Topics
+    - Neurochemistry II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155
+- Materials
+
+---
+
+## Week 7, October 5 - 9 (in-person)
+
+### Tuesday, October 6
+
+- Topics
+    - Hormones and the brain
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112
+    - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155
+- Materials
+
+### Thursday, October 8
+
+- Topics
+    - Wrap-up on neurochemistry
+    - **Quiz 2**. 
+    - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+- Materials
+
+---
+    
+## Week 8, October 12 - 16 (in-person)
+
+### Tuesday, October 13
+
+- Topics
+    - Evolution of the human brain.
+    - Review for Exam 2
+- Assignments
+    <!-- - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015). -->
+    - Read [B&W](http://behavioralneuroscience8e.com/) 6:163-191
+- Materials
+
+### Thursday, October 15 (in-person)
+
+- Topics
+    - **Exam  2**.
+    
+---
+
+## Week 9, October 19 - 23 (in-person)
+
+### Tuesday, October 20
+
+- Topic
+    - Psychopathology I: Depression & Bipolar disorder
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 16:514-523
+- Materials
+    
+### Thursday, October 22
+
+- Psychopathology II: Schizophrenia.
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 16:499-514.
+- Materials
+
+---
+
+## Week 10, October 26 - 30 (in-person)
+
+#### Tuesday, October 27
+
+- Topics
+    - Emotion
+    - Happiness & reward
+    - Fear & stress
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 15:467-485; 15:488-497.
+- Materials
+
+### Thursday, October 29
+
+- Topics
+    - **Quiz 3**.
+    - Exam 2 returned.
+
+---
+
+## Week 11, November 2 - 6 (in-person)
+
+### Tuesday, November 3
+
+**NO CLASS*
+
+### Thursday, November 5
+
+- Topics
+    - Sensory systems
+    - Somatosensation
+    - Action
+- Assignments
+    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - Read [B&W](http://behavioralneuroscience8e.com/) 8:229-262.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 11:337-347.
+- Materials
+   
+---
+
+## Week 12, November 9 - 13 (in-person)
+
+### Tuesday, November 10
+
+- Topics
+    - Action II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 11:347-368.
+- Materials
+
+### Thursday, November 12
+
+- Topics
+    - Vision I
+    - Review for Exam 3
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 10:301-321.
+- Materials
+
+---
+
+## Week 13, November 16 - 20 (in-person)
+
+### Tuesday, November 17
+
+- Topics
+    - **Exam 3**.
+
+### Thursday, November 19
+
+- Topics
+    - Vision II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 10:321-330.
+- Materials
+
+---
+
+## Thanksgiving Break
+
+**NO CLASS**
+
+## Week 14, November 30 - December 4 (remote)
+
+### Tuesday, December 1
+
+- Topics
+    - Learning & memory
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 17:535-552.
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+- Materials
+
+### Thursday, December 3
+
+- Topics
+    - Learning & memory II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 17:552-565.
+- Materials
+
+---
+
+## Week 15, December 7 - 11
+
+### Tuesday, December 8
+
+- Topics
+    - **Quiz 4**.
+    - Exam 3 returned.
+
+### Thursday, December 10
+
+- Topics
+    - Careers in neuroscience
+    - Frontiers in neuroscience
+    - Review for Exam 4
+
+---
+    
+## Finals Week, December 14 - 18
+
+### TBD
+
+- Exam 4

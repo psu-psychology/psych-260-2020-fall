@@ -1,0 +1,30 @@
+name: "PSYCH 260.004 Fall 2020"
+navbar:
+  title: "PSYCH 260.004"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Lectures"
+      menu:
+        - text: "Week 1: 2020-08-25"
+          href: lectures/260-2020-08-25-intro.html
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Deadlines"
+      href: deadlines.html
+    - text: "Policies"
+      href: policies.html
+  right:
+    - text: "Site info"
+      href: site-info.html
+    - icon: ion-social-github
+      href: https://github.com/psu-psychology/psych-260-2020-fall
+output_dir: "docs"
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html
