@@ -32,3 +32,8 @@ output:
 
 ```{r child = 'policies.Rmd'}
 ```
+
+# Values
+
+```{r child = 'values.Rmd'}
+```
