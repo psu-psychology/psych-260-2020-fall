@@ -1,6 +1,6 @@
 name: "PSYCH 260.004 Fall 2020"
 navbar:
-  title: "PSYCH 260.004"
+  title: "PSYCH 260"
   left:
     - text: "Home"
       href: index.html
@@ -16,6 +16,8 @@ navbar:
       href: deadlines.html
     - text: "Policies"
       href: policies.html
+    - text: "Values"
+      href: values.html
   right:
     - text: "Site info"
       href: site-info.html
