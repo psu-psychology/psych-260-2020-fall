@@ -44,6 +44,8 @@ Professor of Psychology</br>
 </div>
 <!-- Gilmore photo biography -->
 
+---
+
 ## What is this course about?
 
 - What is behavior?
@@ -134,7 +136,11 @@ Professor of Psychology</br>
 
 ## Course overview
 
-- <http://psu-psychology.github.io/psych-260-2020-fall/>
+<http://psu-psychology.github.io/psych-260-2020-fall/>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0gubm_mSHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Keys for success
 
