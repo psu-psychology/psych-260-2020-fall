@@ -25,11 +25,16 @@ output:
 <img src="img/fesi-source.jpg"/>
 </div>
 
-## Instructor & TA {.flexbox .vcenter}
+## TA & Instructor {.flexbox .vcenter}
 
 <div class="centered">
+
+### **Shekoo Hedayati**, M.S.</br>
+Graduate Student in Cognitive Psychology
+
 ### **Rick O. Gilmore**, Ph.D.</br>
 Professor of Psychology</br>
+</div>
 
 ---
 
@@ -43,8 +48,6 @@ Professor of Psychology</br>
 <img src="https://nyu.databrary.org/web/images/logo/databrary-nav.svg" height=150px>
 </div>
 <!-- Gilmore photo biography -->
-
----
 
 ## What is this course about?
 
@@ -100,9 +103,10 @@ Professor of Psychology</br>
 
 ## Neurons
 
+<!-- Neural networking -->
 <div class="centered">
-<a href="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg">
-<img src="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg" height=500px/></a>
+<a href="https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg">
+<img src="https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg" height=500px/></a>
 </div>
 
 ## Networks
@@ -116,8 +120,8 @@ Professor of Psychology</br>
 ## Brains
 
 <div class="centered">
-<a href="http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg">
-<img src="http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg" height=500px/>
+<a href="https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg">
+<img src="https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg" height=500px/>
 </a>
 </div>
 
@@ -210,6 +214,10 @@ Modern science aspires to embody these norms.
     - **Function**, e.g., physiology
 - Where did X come from?
     - **Origins**, e.g., development/evolution
+    
+---
+
+<script src="https://www.polleverywhere.com/multiple_choice_polls/AYr8FF9yCoPXpkhpVgotD/web.js?height=250&results_count_format=percent&width=300"></script>
 
 ## Differences among sciences
 

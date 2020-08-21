@@ -14,8 +14,6 @@ title: "Schedule"
 
 - Assignments
     - Read: [B&W](http://behavioralneuroscience8e.com/) 1:2-19
-    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>
-    - Scan: <https://faculty.washington.edu/chudler/hist.html>
 - Materials
 
 ### Thursday, August 27 (in-person)
@@ -25,6 +23,8 @@ title: "Schedule"
     - Levels of analysis
     - Neuroscience methods I
 - Assignments
+    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
     - Read: [B&W](http://behavioralneuroscience8e.com/) 1:1-21; 2:51-57; 3:88-92
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional:
@@ -220,7 +220,7 @@ title: "Schedule"
 
 ### Tuesday, November 3
 
-**NO CLASS*
+**NO CLASS**
 
 ### Thursday, November 5
 
@@ -277,6 +277,8 @@ title: "Schedule"
 ## Thanksgiving Break
 
 **NO CLASS**
+
+---
 
 ## Week 14, November 30 - December 4 (remote)
 
