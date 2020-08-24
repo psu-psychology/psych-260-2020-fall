@@ -140,17 +140,17 @@ Professor of Psychology</br>
 
 ## Course overview
 
-<http://psu-psychology.github.io/psych-260-2020-fall/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0gubm_mSHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J0gubm_mSHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<http://psu-psychology.github.io/psych-260-2020-fall/>
 
 ## Keys for success
 
 - Study the figures.
 - Study regularly -- don't cram.
-- Come to class.
+- Come to class (in-person or virtually).
 - Participate!
 
 ## Why is biology essential for the science of behavior?
@@ -162,19 +162,21 @@ Professor of Psychology</br>
 
 ## What is [science](http://dictionary.reference.com/browse/science)?
 
+## What is science?
+
 - Body of facts or truths
 - Process of acquiring knowledge
     - Systematic study
     - Observation, experiment, description
-    - *Strives* for objectivity
     - Aims at reliable, reproducible, general, systematic, universal laws
-
+    - *Strives* for objectivity
+ 
 ## Gilmore on science vs. other ways of thinking
 
 ---
 
 - Science is a *way of thinking* and a *set of behaviors*
-- Science *describes* or *predicts*
+- Science *describes*, tries to *predict*
 - Science alone not well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
     - little to say about what is good, just, right, moral, etc.
     - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
@@ -182,7 +184,7 @@ Professor of Psychology</br>
 ---
 
 - Science rests on **evidence and logic** 
-    - <span class="blue">NOT on authorities</span>
+    - <span class="blue">NOT on authorities</span> (e.g., people whose stature is largely or solely based on their position or economic status)
     - However, some scientific claims (and scientists) are more credible and authoritative than others.
 - Science respects tradition
     - but questions and tests it repeatedly...
@@ -195,16 +197,16 @@ Professor of Psychology</br>
     + has led to huge advances in human health and prosperity over the last several centuries
     + will be essential for maintaining and extending those advances in the future
 
-## [Mertonian norms](https://en.wikipedia.org/wiki/Mertonian_norms)
+<!-- ## [Mertonian norms](https://en.wikipedia.org/wiki/Mertonian_norms) -->
 
-- **universalism**: scientific validity independent of sociopolitical status/personal attributes of its participants
-- **“communalism”**: common ownership of scientific goods (intellectual property)
-- **disinterestedness**: scientific institutions benefit a common scientific enterprise, not specific individuals
-- **organized skepticism**: claims should be exposed to critical scrutiny before being accepted
+<!-- - **universalism**: scientific validity independent of sociopolitical status/personal attributes of its participants -->
+<!-- - **“communalism”**: common ownership of scientific goods (intellectual property) -->
+<!-- - **disinterestedness**: scientific institutions benefit a common scientific enterprise, not specific individuals -->
+<!-- - **organized skepticism**: claims should be exposed to critical scrutiny before being accepted -->
 
-<div class="notes">
-Modern science aspires to embody these norms.
-</div>
+<!-- <div class="notes"> -->
+<!-- Modern science aspires to embody these norms. -->
+<!-- </div> -->
 
 ## Similarities between sciences
 
@@ -215,14 +217,16 @@ Modern science aspires to embody these norms.
 - Where did X come from?
     - **Origins**, e.g., development/evolution
     
----
+## Examples
 
-<script src="https://www.polleverywhere.com/multiple_choice_polls/AYr8FF9yCoPXpkhpVgotD/web.js?height=250&results_count_format=percent&width=300"></script>
+- "Coronavirus gets its name because of its crown-like shape."
+- "Coronavirus appears to have originated in non-human animals in China."
+- "Viruses reproduce (and cause illness) by forcing host organisms to create massive quantities of the virus."
 
 ## Differences among sciences
 
-- Phenomena of interest
-- Methods or tools
+- Phenomena of interest (studying what)
+- Methods or tools (studying it how)
 - Levels of analysis
     - Spatial scale (nanometers to light-years)
     - Temporal scale (milliseconds to millenia)
@@ -309,7 +313,7 @@ Modern science aspires to embody these norms.
 - Single parts -> multiple functions
 - Single functions -> multiple parts
 - Change structure/function over time (learning, development)
-- Biological systems not "designed" like human-engineered ones
+- Naturally occurring systems not "designed" like human-engineered ones
 - What information is being processed? What is being controlled?
 
 ## Next time...
