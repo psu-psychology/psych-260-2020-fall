@@ -10,6 +10,8 @@ navbar:
       menu:
         - text: "Week 1: 2020-08-25"
           href: lectures/260-2020-08-25-intro.html
+        - text: "Week 1: 2020-08-27"
+          href: lectures/260-2020-08-27-history-levels-methods.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
