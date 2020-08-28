@@ -527,6 +527,7 @@ Lichtman video
 - Axes align with strong magnetic field
 - When alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue
 - Realignment emits RF signals
+- [How MRI works](https://science.howstuffworks.com/mri.htm)
 
 ## MRI
 
