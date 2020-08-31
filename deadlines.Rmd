@@ -4,12 +4,13 @@ title: "Deadlines"
 
 | Date      | What's due/happening |
 |-----------|----------------------|
-| Th Jan 24   | [Quiz 1]() |
-| Th Feb 21  | Quiz 2; [Blog post 1](blog-assignment.html) due |
-| Th Feb 28  | Exam 2               |
-| T Mar 21  | Quiz 3               |
-| Th Mar 28 | [Blog post 2](blog-assignment.html) due      |
-| Th Apr 11 | Exam 3               |
-| Tu Apr 16 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |
-| Th Apr 18 | Quiz 4               |
+| Th Sep 10   | Quiz 1 |
+| Th Sep 24 | Exam 1 |
+| Th Oct 8  | Quiz 2; [Blog post 1](blog-assignment.html) due |
+| Th Oct 15  | Exam 2               |
+| Th Oct 29  | Quiz 3 |
+| Th Nov 5 |  [Blog post 2](blog-assignment.html) due     |
+| Tu Nov 17 | Exam 3               |
+| Tu Dec 1 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |
+| Tu Dec 8 | Quiz 4               |
 | TBA       | Exam 4               |
