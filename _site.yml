@@ -8,11 +8,11 @@ navbar:
       href: schedule.html
     - text: "Lectures"
       menu:
-        - text: "Week 1: 2020-08-25"
+        - text: "Week 1: Tue 2020-08-25"
           href: lectures/260-2020-08-25-intro.html
-        - text: "Week 1: 2020-08-27"
+        - text: "Week 1: Thu 2020-08-27"
           href: lectures/260-2020-08-27-history-levels-methods.html
-        - text: "Week 2: 2020-09-01"
+        - text: "Week 2: Tue 2020-09-01"
           href: lectures/260-2020-09-01-methods.html
     - text: "Evaluation"
       href: evaluation.html

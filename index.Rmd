@@ -35,3 +35,11 @@ At the end of the term, you will know more about the following topics:
 - how the nervous system is structured and how it functions;
 - how the nervous system evolved and develops; and
 - how the nervous system influences behavior, thought, action, and emotion.
+
+## *Required* Textbook
+
+Watson, N.V. & Breedlove, S.M. (2019). **The Mind's Machine, 3rd ed**. Sinauer Associates: Sunderland, MA.
+
+## Web links
+
+[BrainFacts.org](http://www.brainfacts.org) from [The Society for Neuroscience](http://sfn.org).
