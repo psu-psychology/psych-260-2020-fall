@@ -33,8 +33,8 @@ output:
 ## This cell-staining technique has what kind of *spatial* resolution?
 
 <div class="centered">
-<a href="https://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
-<img src="https://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="450px"/>
+<a href="https://www.researchgate.net/profile/Michael_Mcdonald12/publication/273065942/figure/fig5/AS:654115122204675@1532964606922/Fresh-rat-brain-tissues-were-stained-with-classical-Golgi-or-Golgi-Cox-stain-Golgi.png">
+<img src="https://www.researchgate.net/profile/Michael_Mcdonald12/publication/273065942/figure/fig5/AS:654115122204675@1532964606922/Fresh-rat-brain-tissues-were-stained-with-classical-Golgi-or-Golgi-Cox-stain-Golgi.png" height="450px"/>
 </a>
 </div>
 
@@ -51,8 +51,8 @@ output:
 ## This cell-staining technique has what kind of *temporal* resolution?
 
 <div class="centered">
-<a href="https://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
-<img src="https://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="450px"/>
+<a href="https://www.researchgate.net/profile/Michael_Mcdonald12/publication/273065942/figure/fig5/AS:654115122204675@1532964606922/Fresh-rat-brain-tissues-were-stained-with-classical-Golgi-or-Golgi-Cox-stain-Golgi.png">
+<img src="https://www.researchgate.net/profile/Michael_Mcdonald12/publication/273065942/figure/fig5/AS:654115122204675@1532964606922/Fresh-rat-brain-tissues-were-stained-with-classical-Golgi-or-Golgi-Cox-stain-Golgi.png" height="450px"/>
 </a>
 </div>
 
