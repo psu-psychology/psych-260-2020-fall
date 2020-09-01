@@ -11,10 +11,10 @@ title: "Schedule"
 - Topics
     - Introduction to the course
     - A bit about systems
-
 - Assignments
     - Read: W&B 1:3-21
 - Materials
+    - [Slides](lectures/260-2020-08-25-intro.html)
 
 ### Thursday, August 27 (in-person)
 
@@ -30,6 +30,7 @@ title: "Schedule"
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
+    - [Slides](lectures/260-2020-08-27-history-levels-methods.html)
 
 ---
 
@@ -44,6 +45,7 @@ title: "Schedule"
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
+    - [Slides](lectures/260-2020-09-01-methods.html)
 
 ### Thursday, September 3 (in-person)
 
