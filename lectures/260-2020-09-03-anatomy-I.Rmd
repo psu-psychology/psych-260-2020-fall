@@ -108,12 +108,21 @@ knitr::include_graphics("https://www.researchgate.net/profile/Deryk_Beal/publica
 - If damage to X impairs performance on Y -> X critical for/controls Y
 - Poor spatial/temporal resolution, limited experimental control
 
+## [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage) {.flexbox .vcenter .smaller}
+
+```{r, echo=FALSE, out.height="500px", fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/srnSL0LRvcaXO2FpMsj6hCmXrzZR4xY5i5S8_i3ixeU9uRfocp5OTNL8c1X3cS-K-hbIaJml-odzYPk2422xDY2ncTuRShEn3UClAM-FbjCCe0EJAxl_ML4Eq7wPczUAZS0u41k1vZq_SsgtcUGS9CsVF4NYWi0")
+```
+
 ## Stimulating the brain
 
 - Pharmacological
 - Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+  - Inject low levels of electric current
 - Magnetic (Transcranial magnetic stimulation - *TMS*)
+  - Inject directed pulses of magnetic energy
 - Optically (optogenetics)
+  - Light activates ion channels in neurons, causes current to flow
 
 ## tDCS {.smaller}
 
@@ -142,9 +151,9 @@ knitr::include_graphics("https://www.researchgate.net/profile/Deryk_Beal/publica
 ## Evaluating stimulation methods
 
 - Spatial/temporal resolution?
-    + Assume stimulation mimics natural activity?
-    + Optogenetic stimulation highly similar, others less so
-- Deep brain stimulation as therapy
+    + Assume stimulation mimics natural activity. Does it?
+    + Optogenetic stimulation similar to natural stimulation, others less so
+- Deep (electrical) brain stimulation as therapy
     + Parkinson’s Disease 
     + Depression 
     + Epilepsy
