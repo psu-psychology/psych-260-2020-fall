@@ -14,8 +14,10 @@ navbar:
           href: lectures/260-2020-08-27-history-levels-methods.html
         - text: "Week 2: Tue 2020-09-01"
           href: lectures/260-2020-09-01-methods.html
-        - text: "Week 3: Thu 2020-09-03"
+        - text: "Week 2: Thu 2020-09-03"
           href: lectures/260-2020-09-03-anatomy-I.html
+        - text: "Week 3: Tue 2020-09-08"
+          href: lectures/260-2020-09-08-anatomy-II.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
