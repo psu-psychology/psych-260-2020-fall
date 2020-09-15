@@ -72,7 +72,7 @@ title: "Schedule"
 ### Thursday, September 10 (in-person)
 
 - Topics
-    - **Quiz 1**
+    - [**Quiz 1**](quiz/quiz-01/quiz-1.html)
     - Neuroanatomy III
 - Materials
     - [Slides](lectures/260-2020-09-10-anatomy-III.html)

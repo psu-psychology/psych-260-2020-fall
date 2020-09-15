@@ -34,6 +34,7 @@ library(tidyverse)
 
 ## Announcements
 
+- [Quiz 1 key](../quiz/quiz-01/quiz-1.html) (with explanations)
 - Exam 1 next Thursday, 9/24
     - 40 questions
 - Complete 1 "component/section" in EyeWire, earn 5 extra credit points.
