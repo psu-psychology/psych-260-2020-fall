@@ -438,6 +438,9 @@ Microglia in red invading dentate gyrus.
     - Always open
 + *Voltage-gated*
     - Open/close at certain voltages
+    
+## Ion channel Types
+
 + *Ligand-gated* (chemically-gated)
     - Open/close in presence of special chemicals (ligands)
 + Transporters/pumps
@@ -455,7 +458,9 @@ Microglia in red invading dentate gyrus.
 
 - Passive K+ channels open
 - [K+] concentration inside >> outside
-- K+ flows out
+    - Transporter pumps K+ in
+- And then, K+ flows out
+    - Force of diffusion
 
 ## Force of diffusion
 
