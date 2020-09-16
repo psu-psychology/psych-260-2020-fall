@@ -99,7 +99,8 @@ title: "Schedule"
 - Assignments
     - Read W&B: 3:55-70
     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
- - Materials
+- Materials
+    - [Slides](lectures/260-2020-09-17-cells-II.html)
 
 ---
 
