@@ -26,9 +26,9 @@ library(tidyverse)
 - 2nd computer connect to Zoom
 - Projector on
 
-## We are the champIONs (3:47)
+<!-- ## We are the champIONs (3:47) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yPKlrRwJB8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/yPKlrRwJB8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <!-- We are the Champions, Queen at LiveAid -->
 
@@ -57,6 +57,12 @@ library(tidyverse)
 ## A mind map/concept map
 
 [Neural communication](https://drive.google.com/file/d/1vhMtlCSGqhKQeTTYTH78Cu84o225lirc/view?usp=sharing)
+- [MindMup](https://www.mindmup.com/)
+
+## Some brain anatomy tools
+
+- <https://www.brainfacts.org/3d-brain≥
+- <http://www.med.harvard.edu/AANLIB/cases/caseNA/pb9.htm>
 
 # Warm-up
 
