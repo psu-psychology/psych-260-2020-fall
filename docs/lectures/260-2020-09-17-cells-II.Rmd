@@ -366,8 +366,8 @@ library(tidyverse)
 
 - Resting potential maintained by balance of forces (diffusion, electrostatic)
 - Action potential generated when balance is altered
-    - $[Na^2]$ in: rising phase to + peak
-    - $[K^2]$ out: falling phase
+    - $[Na^+]$ in: rising phase to + peak
+    - $[K^+]$ out: falling phase
 
 ## Next time
 

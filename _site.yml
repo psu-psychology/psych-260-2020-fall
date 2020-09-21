@@ -18,12 +18,16 @@ navbar:
           href: lectures/260-2020-09-03-anatomy-I.html
         - text: "Week 3: Tue 2020-09-08"
           href: lectures/260-2020-09-08-anatomy-II.html
-        - text: "Week 3: Tue 2020-09-10"
+        - text: "Week 3: Thu 2020-09-10"
           href: lectures/260-2020-09-10-anatomy-III.html
         - text: "Week 4: Tue 2020-09-15"
           href: lectures/260-2020-09-15-cells.html
         - text: "Week 4: Thu 2020-09-17"
           href: lectures/260-2020-09-17-cells-II.html
+        - text: "Week 5 Tue 2020-09-20"
+          href: lectures/260-2020-09-22-cells-III.html
+        - text: "Week 5 Tue 2020-09-20 • Exam 1 Review"
+          href: lectures/260-2020-09-22-exam-1-review.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"

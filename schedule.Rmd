@@ -114,7 +114,11 @@ title: "Schedule"
 - Assignments
     - Read W&B 3:70-75
 - Materials
-
+- Materials
+    - [Slides](lectures/260-2020-09-22-cells-III.html)
+    - [Exam 1 Study Guide](- Materials
+    - [Slides](lectures/260-2020-09-22-exam-1-review.html)
+    
 ### Thursday, September 24 
 
 - Topics
