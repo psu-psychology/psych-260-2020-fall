@@ -341,7 +341,7 @@ output:
 - Myelinated axon
     + AP "jumps" between *Nodes of Ranvier* via *saltatory conduction*
     + Nodes of Ranvier == unmyelinated sections of axon
-    + voltage-gated $Na^+$, $K_+$ channels exposed
+    + voltage-gated $Na^+$, $K^+$ channels exposed
     + Current flows through myelinated segments
     
 ## Question

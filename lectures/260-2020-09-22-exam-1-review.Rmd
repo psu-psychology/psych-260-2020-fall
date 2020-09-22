@@ -53,5 +53,5 @@ output:
 - [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-15-cells.html#26)
 - [Resting potential -- what is it & why does it occur](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-15-cells.html#49)
     - [$[K^+]$ story](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-22-cells-III.html#8) (where concentrated, direction of flow)
-    + [$[Na^+]$ story0(https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-22-cells-III.html#12) (where concentrated, direction of flow)
+    + [$[Na^+]$](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-22-cells-III.html#12) (where concentrated, direction of flow)
 - [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-17-cells-II.html#39)
