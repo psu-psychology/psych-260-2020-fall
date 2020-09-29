@@ -134,6 +134,8 @@ title: "Schedule"
     -  Read [W&B](http://behavioralneuroscience8e.com/) 3:79-85
     -  Read [W&B](http://behavioralneuroscience8e.com/) 4:95-103
 - Materials
+- Materials
+    - [Slides](lectures/260-2020-09-29-neurochem-I.html)
 
 ### Thursday, October 1 
 

@@ -24,10 +24,12 @@ navbar:
           href: lectures/260-2020-09-15-cells.html
         - text: "Week 4: Thu 2020-09-17"
           href: lectures/260-2020-09-17-cells-II.html
-        - text: "Week 5 Tue 2020-09-20"
+        - text: "Week 5 Tue 2020-09-22"
           href: lectures/260-2020-09-22-cells-III.html
-        - text: "Week 5 Tue 2020-09-20 • Exam 1 Review"
+        - text: "Week 5 Tue 2020-09-22 • Exam 1 Review"
           href: lectures/260-2020-09-22-exam-1-review.html
+        - text: "Week 5 Tue 2020-09-29"
+          href: lectures/260-2020-09-29-neurochem-I.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
