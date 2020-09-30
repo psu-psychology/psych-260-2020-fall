@@ -145,6 +145,7 @@ title: "Schedule"
     - Read [W&B](http://behavioralneuroscience8e.com/) 4:101-112.
     - Read [W&B](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155
 - Materials
+    - [Slides](lectures/260-2020-10-01-neurochem-II.html)
 
 ---
 
