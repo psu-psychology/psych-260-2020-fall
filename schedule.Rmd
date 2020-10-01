@@ -131,8 +131,7 @@ title: "Schedule"
 - Topics
     - Neurochemistry I
 - Assignments
-    -  Read [W&B](http://behavioralneuroscience8e.com/) 3:79-85
-    -  Read [W&B](http://behavioralneuroscience8e.com/) 4:95-103
+    -  Read W&B 4:83-92, 96-100
 - Materials
 - Materials
     - [Slides](lectures/260-2020-09-29-neurochem-I.html)
@@ -142,8 +141,7 @@ title: "Schedule"
 - Topics
     - Neurochemistry II
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 4:101-112.
-    - Read [W&B](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155
+    -  Read W&B 4:83-92, 96-100
 - Materials
     - [Slides](lectures/260-2020-10-01-neurochem-II.html)
 
@@ -156,8 +154,7 @@ title: "Schedule"
 - Topics
     - Hormones and the brain
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 4:101-112
-    - Read [W&B](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155
+    - Read W&B 8:217-234
 - Materials
 
 ### Thursday, October 8
@@ -178,8 +175,6 @@ title: "Schedule"
     - Evolution of the human brain.
     - Review for Exam 2
 - Assignments
-    <!-- - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015). -->
-    - Read [W&B](http://behavioralneuroscience8e.com/) 6:163-191
 - Materials
 
 ### Thursday, October 15 (in-person)
@@ -196,14 +191,14 @@ title: "Schedule"
 - Topic
     - Psychopathology I: Depression & Bipolar disorder
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 16:514-523
+    - Read W&B 12:361-371.
 - Materials
     
 ### Thursday, October 22
 
 - Psychopathology II: Schizophrenia.
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 16:499-514.
+    - Read W&B 12:347-360.
 - Materials
 
 ---
@@ -217,7 +212,7 @@ title: "Schedule"
     - Happiness & reward
     - Fear & stress
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 15:467-485; 15:488-497.
+    - Read W&B 11:319-333, 337-344.
 - Materials
 
 ### Thursday, October 29
@@ -242,7 +237,7 @@ title: "Schedule"
     - Action
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
-    - Read [W&B](http://behavioralneuroscience8e.com/) 8:229-262.
+    - Read W&B 5:119-150
     - Read [W&B](http://behavioralneuroscience8e.com/) 11:337-347.
 - Materials
    
@@ -255,7 +250,6 @@ title: "Schedule"
 - Topics
     - Action II
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 11:347-368.
 - Materials
 
 ### Thursday, November 12
@@ -264,7 +258,7 @@ title: "Schedule"
     - Vision I
     - Review for Exam 3
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 10:301-321.
+    - Read W&B 7:183-201
 - Materials
 
 ---
@@ -281,7 +275,7 @@ title: "Schedule"
 - Topics
     - Vision II
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 10:321-330.
+    - Read W&B 7:201-215.
 - Materials
 
 ---
@@ -299,7 +293,7 @@ title: "Schedule"
 - Topics
     - Learning & memory
 - Assignments
-    - Read [W&B](http://behavioralneuroscience8e.com/) 17:535-552.
+    - Read W&B 13:379-391.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 - Materials
 
@@ -308,7 +302,7 @@ title: "Schedule"
 - Topics
     - Learning & memory II
 - Assignments
-    - Read [W&B](http://3e.mindsmachine.com/) 17:552-565.
+    - Read W&B 13:392-401.
 - Materials
 
 ---
