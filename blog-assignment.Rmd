@@ -4,9 +4,12 @@ title: "Blog assignment"
 
 ## Format, due date
 
-- Create a blog at <http://sites.psu.edu> or add pages to an existing blog; make at least two posts.
-- Worth 15 points
-- Final posts due by **Tuesday, December 1, 2020 at 5:00 pm**.
+- Create a blog at <http://sites.psu.edu> or add pages to an existing blog; make at least three posts.
+- Worth 15 points in total (5 points/post)
+- Due dates/times
+    - Post 1: **Thursday, October 8, 2020, 5:00 pm**
+    - Post 2: **Thursday, November 5, 2020, 5:00 pm**
+    - Post 3:  **Tuesday, December 1, 2020 at 5:00 pm**
 - Submit by sending email with link (URL) to the TA, cc the instructor.
 - Please indicate in your email whether you wish to have the link to your blog added to the course web site.
 
