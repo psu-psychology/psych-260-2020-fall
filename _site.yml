@@ -34,6 +34,8 @@ navbar:
           href: lectures/260-2020-10-01-neurochem-II.html
         - text: "Week 7 Tue 2020-10-06"
           href: lectures/260-2020-10-06-hormones.html
+        - text: "Week 8 Tue 2020-10-13"
+          href: lectures/260-2020-10-13-evolution.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
