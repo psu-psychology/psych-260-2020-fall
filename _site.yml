@@ -36,6 +36,8 @@ navbar:
           href: lectures/260-2020-10-06-hormones.html
         - text: "Week 8 Tue 2020-10-13"
           href: lectures/260-2020-10-13-evolution.html
+        - text: "Week 8 Tue 2020-10-13 • Exam 2 Review"
+          href: lectures/260-2020-10-13-exam-2-review.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"

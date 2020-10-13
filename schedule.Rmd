@@ -175,6 +175,7 @@ title: "Schedule"
     - Review for Exam 2
 - Materials
     - [Slides](lectures/260-2020-10-13-evolution.html)
+    - [Exam 2 Study Guide](lectures/260-2020-09-22-exam-2-review.html)
 
 ### Thursday, October 15 (in-person)
 
