@@ -237,10 +237,11 @@ output:
 
 - Brain size scales with body size (more or less)
 - Mammals and birds have big brains
-- Some animals have big brains for their bodies (=high encephalization)
+- Some animals have big brains for their bodies
     + Humans
     + Crows
     + Porpoises
+- Bigger than expect brains (relative to average) = high 'encephalization factor'
 
 ## Cortical size within groups {.smaller}
 
@@ -257,6 +258,8 @@ output:
 | Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
 | Cortical gray + white | mice 40% | 80% |
 | Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+- Cerebral cortex larger in humans
 
 ## Evolutionary trends in cortical size {.smaller}
 
@@ -387,7 +390,7 @@ output:
 [[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)
 </div>
     
-## How did it get this way?
+## How did the human brain get this way?
 
 - Build upon mammalian/primate norms
 - More efficient energy intake
