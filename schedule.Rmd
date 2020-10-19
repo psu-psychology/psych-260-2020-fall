@@ -193,6 +193,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 12:361-371.
 - Materials
+    - [Slides](lectures/260-2020-10-20-depression-bipolar.html)
     
 ### Thursday, October 22
 

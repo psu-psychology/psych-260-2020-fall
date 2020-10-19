@@ -392,7 +392,7 @@ output:
     
 ## How did the human brain get this way?
 
-- Build upon mammalian/primate norms
+- Builds upon mammalian/primate norms
 - More efficient energy intake
     + calories/hr foraging vs.
     + cooking?
