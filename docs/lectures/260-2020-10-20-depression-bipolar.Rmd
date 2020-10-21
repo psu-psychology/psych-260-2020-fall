@@ -28,6 +28,14 @@ output:
     + Major Depressive Disorder (depression)
     + Bipolar Disorder
    
+## Mental illness lifetime prevalence
+
+<div class="centered">
+<a href="">
+<img src="https://www.nimh.nih.gov/images/stats/nsduh-smi-2015-graph-020317_154208_1.png" height=450px>
+</a>
+</div>
+
 ## Neuroscience of psychiatric disorders
 
 - Diseases of the mind as disorders of the brain
@@ -36,7 +44,7 @@ output:
     + *proportion of variance in trait accounted for by genetic factors*
 - Higher for psychiatric disorders than non-psychiatric diseases
     - Family member with mental illness highest known risk factor
-
+    
 # Depression
 
 ## Major Depressive Disorder
