@@ -216,6 +216,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 11:319-333, 337-344.
 - Materials
+    - [Slides](lectures/260-2020-10-27-emotion.html)
 
 ### Thursday, October 29
 
