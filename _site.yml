@@ -43,7 +43,7 @@ navbar:
         - text: "Week 9 Thu 2020-10-22"
           href: lectures/260-2020-10-22-schizophrenia.html
         - text: "Week 10 Tue 2020-10-27"
-          href: lectures/260-2020-10-22-emotion.html
+          href: lectures/260-2020-10-27-emotion.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
