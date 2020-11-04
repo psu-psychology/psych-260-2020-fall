@@ -239,10 +239,11 @@ title: "Schedule"
     - Somatosensation
     - Action
 - Assignments
-    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
     - Read W&B 5:119-150
     - Read [W&B](http://behavioralneuroscience8e.com/) 11:337-347.
 - Materials
+    - [Slides](lectures/260-2020-11-05-sensation.html)
    
 ---
 
