@@ -46,6 +46,8 @@ navbar:
           href: lectures/260-2020-10-27-emotion.html
         - text: "Week 11 Tue 2020-11-05"
           href: lectures/260-2020-11-05-sensation.html
+        - text: "Week 12 Tue 2020-11-12"
+          href: lectures/260-2020-11-10-action.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"

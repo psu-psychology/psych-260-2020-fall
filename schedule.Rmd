@@ -255,6 +255,7 @@ title: "Schedule"
     - Action II
 - Assignments
 - Materials
+    - [Slides](lectures/260-2020-11-10-action.html)
 
 ### Thursday, November 12
 
