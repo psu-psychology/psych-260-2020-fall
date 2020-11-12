@@ -175,7 +175,7 @@ title: "Schedule"
     - Review for Exam 2
 - Materials
     - [Slides](lectures/260-2020-10-13-evolution.html)
-    - [Exam 2 Study Guide](lectures/260-2020-09-22-exam-2-review.html)
+    - [Exam 2 Study Guide](lectures/260-2020-10-13-exam-2-review.html)
 
 ### Thursday, October 15 (in-person)
 
@@ -265,6 +265,8 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:183-201
 - Materials
+    - [Slides](lectures/260-2020-11-10-action.html)
+    - [Exam 3 Study Guide](lectures/260-2020-11-12-exam-3-review.html)
 
 ---
 

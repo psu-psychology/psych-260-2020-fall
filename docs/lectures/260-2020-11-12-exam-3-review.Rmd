@@ -1,0 +1,81 @@
+---
+title: "[PSYCH 260](https://psu-psychology.github.io/psych-260-2020-fall)"
+subtitle: "Exam 3 Review"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Emotion, stress, & reward
+
+- Biological perspectives on (e.g., Plutchik)
+- Acute vs. chronic stressors
+- Nodes in fear processing/stress network
+- Nodes in 'reward' network, and some key neurotransmitters
+
+## Depression
+
+- Monoamine hypothesis
+- Serotonin role
+- Treatments for
+
+## Schizophrenia
+
+- Dopamine hypothesis vs.
+- Glutamate hypothesis 
+- Brain abnormalities
+- Symptoms of
+
+## Bipolar disorder
+
+- Treatments for
+- How differs from/similar to depression, schizophrenia
+
+## Sensory systems
+
+- Topographic maps
+- Non-uniform sensitivity
+- Hierarchical processing (and thalamic relay)
+- Functional segregation
+- Myelination, axon diameter & speed
+
+## Sensory systems
+
+- Speed of information processing
+- Primary sensory/motor areas in cortex
+- Receptive field size, cortical size, & sensory acuity
+
+## Somatosensation & pain
+
+- Touch, temperature, pain receptors in skin
+- Pathways to cortex
+
+## Action
+
+- Muscle types
+- How muscles work
+    - ACh, Ca++
+    - Intrafusal/extrafusal fibers
+- Monosynaptic stretch reflex/myotatic reflex
+- Motor system disorders
+
+## Vision
+
+- The eye as camera
+- Physiologically backwards and anatomically inside-out
+- Color opponency
+- Center-surround receptive fields
+- Projections to the brain
