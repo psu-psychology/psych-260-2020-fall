@@ -8,50 +8,82 @@ navbar:
       href: schedule.html
     - text: "Lectures"
       menu:
-        - text: "Week 1: Tue 2020-08-25"
-          href: lectures/260-2020-08-25-intro.html
-        - text: "Week 1: Thu 2020-08-27"
-          href: lectures/260-2020-08-27-history-levels-methods.html
-        - text: "Week 2: Tue 2020-09-01"
-          href: lectures/260-2020-09-01-methods.html
-        - text: "Week 2: Thu 2020-09-03"
-          href: lectures/260-2020-09-03-anatomy-I.html
-        - text: "Week 3: Tue 2020-09-08"
-          href: lectures/260-2020-09-08-anatomy-II.html
-        - text: "Week 3: Thu 2020-09-10"
-          href: lectures/260-2020-09-10-anatomy-III.html
-        - text: "Week 4: Tue 2020-09-15"
-          href: lectures/260-2020-09-15-cells.html
-        - text: "Week 4: Thu 2020-09-17"
-          href: lectures/260-2020-09-17-cells-II.html
-        - text: "Week 5 Tue 2020-09-22"
-          href: lectures/260-2020-09-22-cells-III.html
-        - text: "Week 6 Tue 2020-09-22 • Exam 1 Review"
-          href: lectures/260-2020-09-22-exam-1-review.html
-        - text: "Week 6 Tue 2020-09-29"
-          href: lectures/260-2020-09-29-neurochem-I.html
-        - text: "Week 6 Thu 2020-10-01"
-          href: lectures/260-2020-10-01-neurochem-II.html
-        - text: "Week 7 Tue 2020-10-06"
-          href: lectures/260-2020-10-06-hormones.html
-        - text: "Week 8 Tue 2020-10-13"
-          href: lectures/260-2020-10-13-evolution.html
-        - text: "Week 8 Tue 2020-10-13 • Exam 2 Review"
-          href: lectures/260-2020-10-13-exam-2-review.html
-        - text: "Week 9 Tue 2020-10-20"
-          href: lectures/260-2020-10-20-depression-bipolar.html
-        - text: "Week 9 Thu 2020-10-22"
-          href: lectures/260-2020-10-22-schizophrenia.html
-        - text: "Week 10 Tue 2020-10-27"
-          href: lectures/260-2020-10-27-emotion.html
-        - text: "Week 11 Tue 2020-11-05"
-          href: lectures/260-2020-11-05-sensation.html
-        - text: "Week 12 Tue 2020-11-10"
-          href: lectures/260-2020-11-10-action.html
-        - text: "Week 12 Thu 2020-11-12"
-          href: lectures/260-2020-11-12-vision.html
-        - text: "Week 12 Thu 2020-11-12 • Exam 3 Review"
-          href: lectures/260-2020-11-12-exam-3-review.html
+        - text: "Week 1"
+          menu:
+            - text: "Tue 2020-08-25"
+              href: lectures/260-2020-08-25-intro.html
+            - text: "Thu 2020-08-27"
+              href: lectures/260-2020-08-27-history-levels-methods.html
+        - text: "Week 2"
+          menu:
+          - text: "Tue 2020-09-01"
+            href: lectures/260-2020-09-01-methods.html
+          - text: "Thu 2020-09-03"
+            href: lectures/260-2020-09-03-anatomy-I.html
+        - text: "Week 3"
+          menu:
+          - text: "Tue 2020-09-08"
+            href: lectures/260-2020-09-08-anatomy-II.html
+          - text: "Thu 2020-09-10"
+            href: lectures/260-2020-09-10-anatomy-III.html
+        - text: "Week 4"
+          menu:
+          - text: "Tue 2020-09-15"
+            href: lectures/260-2020-09-15-cells.html
+          - text: "Thu 2020-09-17"
+            href: lectures/260-2020-09-17-cells-II.html
+        - text: "Week 5"
+          menu:
+          - text: "Tue 2020-09-22"
+            href: lectures/260-2020-09-22-cells-III.html
+          - text: "Tue 2020-09-22 • Exam 1 Review"
+            href: lectures/260-2020-09-22-exam-1-review.html
+        - text: "Week 6"
+          menu:
+          - text: "Tue 2020-09-29"
+            href: lectures/260-2020-09-29-neurochem-I.html
+          - text: "Thu 2020-10-01"
+            href: lectures/260-2020-10-01-neurochem-II.html
+        - text: "Week 7"
+          menu:
+          - text: "Tue 2020-10-06"
+            href: lectures/260-2020-10-06-hormones.html
+          - text: "Tue 2020-10-13"
+            href: lectures/260-2020-10-13-evolution.html
+        - text: "Week 8"
+          menu:
+          - text: "Tue 2020-10-13 • Exam 2 Review"
+            href: lectures/260-2020-10-13-exam-2-review.html
+        - text: "Week 9"
+          menu:
+          - text: "Tue 2020-10-20"
+            href: lectures/260-2020-10-20-depression-bipolar.html
+          - text: "Thu 2020-10-22"
+            href: lectures/260-2020-10-22-schizophrenia.html
+        - text: "Week 10"
+          menu:
+          - text: "Week 10 Tue 2020-10-27"
+            href: lectures/260-2020-10-27-emotion.html
+        - text: "Week 11"
+          menu:
+          - text: "Thu 2020-11-05"
+            href: lectures/260-2020-11-05-sensation.html
+        - text: "Week 12"
+          menu:
+          - text: "Tue 2020-11-10"
+            href: lectures/260-2020-11-10-action.html
+          - text: "Thu 2020-11-12"
+            href: lectures/260-2020-11-12-vision.html
+          - text: "Thu 2020-11-12 • Exam 3 Review"
+            href: lectures/260-2020-11-12-exam-3-review.html
+        - text: "Week 13"
+          menu:
+          - text: "Thu 2020-11-19"
+            href: lectures/260-2020-11-12-vision.html
+        - text: "Week 14"
+          menu:
+          - text: "Tue 2020-12-01"
+            href: lectures/260-2020-12-01-memory.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
