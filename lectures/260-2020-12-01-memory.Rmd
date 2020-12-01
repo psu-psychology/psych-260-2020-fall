@@ -89,6 +89,12 @@ output:
     - Change in response to repeated encounters with same stimulus/event
     - Habituation -> weaker response
     - Sensitization -> stronger repponse
+    
+---
+
+```{r, echo=FALSE, fig.align='center', out.height='500px'}
+knitr::include_graphics("https://www.researchgate.net/profile/James_Herman3/publication/256074938/figure/fig3/AS:216468764532738@1428621583098/Stress-habituation-and-facilitation-Repeated-exposure-to-the-same-stressor-results-in.png")
+```
 
 ---
 
@@ -134,8 +140,21 @@ output:
 
 ## How to implement 'Hebbian' learning?
 
-- 'Hebbian' learning is associative
-- Neuron A active + Neuron B active
+- Hebbian learning is associative
+- Neuron A active + Neuron B active => associates/links co-activity
+
+## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation)
+
+- Increase (potentiation) in synaptic strength based on recent co-activity
+- Change at synapse == physical basis of Hebbian learning
+
+---
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg>
+</div>
 
 ##  'Hebbian' learning via NMDA receptor
 
@@ -189,6 +208,7 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 - *Memantine* (Alzheimer's Disease treatment) *blocks* NMDA-R
     - Controls over-activation and $Ca^{++}$ excitotoxicity?
 - Implicated in effects of *phencylidine* (PCP)
+    - PCP can induce psychotic symptoms
     - Link to glutamate hypothesis of schizophrenia?
 
 ## NMDA clinical significance
@@ -199,20 +219,10 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 - Linked to analgesic (pain-relieving) effects of nitrous oxide (laughing gas; NO)
 - Ethanol inhibits [(Ron et al., 2011)](https://www.ncbi.nlm.nih.gov/pubmed/21204417)
 
-## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation) {.smaller}
+## Learning "causal chains"
 
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg" height=450px>
-
-<https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg>
-</div>
-
-## Long-term potentiation (LTP)
-
-- Increase in synaptic strength based on recent activity
-- But how to learn/remember "causal chains"?
-    + e.g., lightning THEN thunder
-    + unusual food THEN indigestion
+- lightning THEN thunder
+- unusual food THEN indigestion
 
 ## Spike-timing-dependent plasticity {.smaller}
 
@@ -229,6 +239,7 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 
 [[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
 </div>
+
 
 ## Spike-timing-dependent plasticity
 
