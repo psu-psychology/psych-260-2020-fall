@@ -99,7 +99,7 @@ output:
 - **Non-associative**
     - Change in response to repeated encounters with same stimulus/event
     - Habituation -> weaker response
-    - Sensitization -> stronger repponse
+    - Sensitization -> stronger response
     
 ---
 
@@ -214,6 +214,23 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 - Duck
 - Draper
 
+## How does LTP (& LTD) work?
+
+- Synapses can also be weakened via long-term depression (LTD)
+- NMDA receptor one molecular mechanism for implementing LTP, LTD & spike-timing-dependent plasticity
+- Ca++ entry triggers biochemical cascade
+- Existing (AMPA) glutamate receptors made to stay open longer
+- New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane
+- Change in quantity of glutamate released presynaptically
+
+<!-- ## LTP signaling {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="img/LTP-a_07_m_tra_1a.gif" height=450px> -->
+
+<!-- <http://thebrain.mcgill.ca/flash/a/a_07/a_07_m/a_07_m_tra/a_07_m_tra.html> -->
+<!-- </div> -->
+
 ## NMDA clinical significance
 
 - *Memantine* (Alzheimer's Disease treatment) *blocks* NMDA-R
@@ -251,38 +268,12 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 [[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
 </div>
 
-
 ## Spike-timing-dependent plasticity
 
 - A before B: strengthen A->B
 - A after B: weaken A->B
 - [*Neural Plasticity*](https://en.wikipedia.org/wiki/Neuroplasticity)
     + Lasting changes in neural firing, connectivity
-
-## How does LTP (& LTD) work?
-
-- NMDA receptor one molecular mechanism for implementing LTP, LTD and spike-timing-dependent plasticity
-- Ca++ entry triggers biochemical cascade
-- Existing (AMPA) glutamate receptors made to stay open longer
-- New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane
-- Change in quantity of glutamate released presynaptically
-
-<!-- ## LTP signaling {.smaller} -->
-
-<!-- <div class="centered"> -->
-<!-- <img src="img/LTP-a_07_m_tra_1a.gif" height=450px> -->
-
-<!-- <http://thebrain.mcgill.ca/flash/a/a_07/a_07_m/a_07_m_tra/a_07_m_tra.html> -->
-<!-- </div> -->
-
-## Dimensions of stored info
-
-- Memory of what?
-    + Facts/events/places vs. skills
-- Memory of when?
-    + Immediate vs. distant past
-- Memory for how long?
-    + Seconds vs. years
 
 ## Memory systems in the brain
 
