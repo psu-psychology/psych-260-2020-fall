@@ -265,7 +265,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:183-201
 - Materials
-    - [Slides](lectures/260-2020-11-10-action.html)
+    - [Slides](lectures/260-2020-11-12-vision.html)
     - [Exam 3 Study Guide](lectures/260-2020-11-12-exam-3-review.html)
 
 ---
@@ -284,6 +284,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:201-215.
 - Materials
+    - [Slides](lectures/260-2020-11-12-vision.html)
 
 ---
 
@@ -303,6 +304,7 @@ title: "Schedule"
     - Read W&B 13:379-391.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 - Materials
+    - [Slides](lectures/260-2020-12-01-memory.html)
 
 ### Thursday, December 3
 
