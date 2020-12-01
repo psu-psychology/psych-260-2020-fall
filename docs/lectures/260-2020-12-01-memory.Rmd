@@ -21,6 +21,12 @@ output:
 
 <!-- 'Memory' from Cats -->
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpTCZ-hO6iI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<!-- Marilu Henner - I remember my whole life! -->
+
 ## Today's topics
 
 - Biological basis of learning & memory
@@ -73,9 +79,14 @@ output:
 
 ## Computers vs. brains
 
-- Computers have separate memory stores; brains store info everywhere
-- Computers have addressable memory; brain memory??
-- Computer memory can be non-volatile; brain memory??
+- Computers have separate memory stores
+    - brains store info everywhere
+- Computers have addressable memory
+    - brain memory??
+- Computer memory can be non-volatile
+    - brain memories fade
+- Computer memory is veridical
+    - brain memories are 'reconstructions'
 
 ## What is learning?
 
