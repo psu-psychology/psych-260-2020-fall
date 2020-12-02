@@ -84,6 +84,8 @@ navbar:
           menu:
           - text: "Tue 2020-12-01"
             href: lectures/260-2020-12-01-memory.html
+          - text: "Thu 2020-12-03"
+            href: lectures/260-2020-12-03-memory-II.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
