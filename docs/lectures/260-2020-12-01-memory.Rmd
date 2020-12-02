@@ -244,7 +244,7 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 - *Ketamine* is an NMDA-R antagonist
     - anesthesia, sedation pain relief
     - short-term relief for depression
-- Linked to analgesic (pain-relieving) effects of nitrous oxide (laughing gas; NO)
+- Linked to analgesic (pain-relieving) effects of nitrous oxide ($N_{2}O$) or 'laughing' gas
 - Ethanol inhibits [(Ron et al., 2011)](https://www.ncbi.nlm.nih.gov/pubmed/21204417)
 
 ## Learning "causal chains"
