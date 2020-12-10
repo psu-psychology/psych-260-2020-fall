@@ -86,6 +86,10 @@ navbar:
             href: lectures/260-2020-12-01-memory.html
           - text: "Thu 2020-12-03"
             href: lectures/260-2020-12-03-memory-II.html
+        - text: "Week 15"
+          menu:
+          - text: "Thu 2020-12-10"
+            href: lectures/260-2020-12-10-exam-4-study-guide.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"

@@ -330,6 +330,8 @@ title: "Schedule"
     - Review for Exam 4
     - Frontiers & careers in neuroscience
     - The Cerebral Symphony
+- Materials
+    - [Exam 4 Study Guide](lectures/260-2020-12-10-exam-4-study-guide.html)
 
 ---
     
